@@ -3,24 +3,18 @@
 :root {
   --font-base: "DM Sans", sans-serif;
 
-  --primary-color: #EACE98;
-  --secondary-color: #43520D;
+  --primary-color: #edf2f8;
+  --secondary-color: #313bac;
   --black-color: #030303;
   --lightGray-color: #e4e4e4;
-  --gray-color: #B5BCAE;
-  --brown-color: #B7A229;
+  --gray-color: #6b7688;
+  --brown-color: #46364a;
   --white-color: #ffffff;
 }
 
-*,
-*::before,
-*::after {
-  margin: 0;
-  padding: 0;
-  box-sizing: inherit;
-}
-html {
+* {
   box-sizing: border-box;
-  font-size: 62.5%;
+  padding: 0;
+  margin: 0;
   scroll-behavior: smooth;
 }
