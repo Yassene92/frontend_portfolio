@@ -17,7 +17,7 @@ const About = () => {
   return (
     <Fragment>
       <h2 className="head-text">
-        We develop <span>websites</span> that <br />
+        We developer <span>websites</span> that <br />
         <span>ignite your business.</span>
       </h2>
 
